@@ -3,11 +3,15 @@
 <img width="876" height="742" alt="image" src="https://github.com/user-attachments/assets/0eddc772-f12e-43cb-a69c-ad8a2e1bf096" />
 <img width="693" height="277" alt="image" src="https://github.com/user-attachments/assets/3d74a48a-cfa9-4abf-988c-94f1da5d1062" />
 <img width="862" height="776" alt="image" src="https://github.com/user-attachments/assets/e84201fb-e35d-49d4-9f21-e5fe9856d519" />
-<img width="885" height="633" alt="image" src="https://github.com/user-attachments/assets/1eb504bf-ffbd-45a7-8ede-d0593601d20a" />
 
 
 ## Tabulations 
+<img width="1210" height="922" alt="image" src="https://github.com/user-attachments/assets/a76df43c-fe4d-466f-9bfd-c6a20541a526" />
+<img width="960" height="963" alt="516381092-f8a9999e-5c33-4bc5-b448-847c94b7233a" src="https://github.com/user-attachments/assets/cd6dd220-3644-47d1-a0be-70fad17dfaf8" />
+
 
 ## Semilog Graph
+<img width="882" height="1246" alt="image" src="https://github.com/user-attachments/assets/196dcaec-cc5b-451a-997f-c26c9325acb9" />
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/b62f4060-16d4-46a4-a1bd-5b4fe905500f" />
